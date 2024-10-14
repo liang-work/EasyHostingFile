@@ -4,7 +4,7 @@ session_start();
 $width = 125;
 $height = 40;
 $font_size = 20;
-$font = 'c:\Users\Administrator\Downloads\upfile.rf.gd\upfile.rf.gd\htdocs\arial.ttf'; // Use an absolute path
+$font = 'arial.ttf'; // Use an absolute path
 
 while (ob_get_level()) {
     ob_end_clean();
