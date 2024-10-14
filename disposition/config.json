@@ -1,0 +1,5 @@
+{
+    "hcaptcha":false,
+    "upload":true,
+    "download":true
+}
