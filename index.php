@@ -73,7 +73,7 @@
                 <!--You can choose one of the two, the self-contained captcha is simple and convenient, but it is not secure, and the h-captcha is safe, but it is troublesome to set up.-->
                 <h4 style="text-align:center">By using this website, you agree to this<a href="xieyi.htm">《Site Agreement》</a></h4>
                 <label for="captcha">Captcha:</label>
-                <img src="captcha.php" alt="验证码">
+                <img src="captcha.php" alt="captcha">
                 <input type="text" name="captcha" id="captcha" required>
                 <input type="submit" value="upload" class="btn">
             </div>
